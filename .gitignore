@@ -1,0 +1,14 @@
+# Backend
+.vs
+.vscode
+.idea
+_NCrunch*
+nCrunchTemp*
+
+bin
+obj
+packages
+
+*.pubxml
+*.suo
+*.user
